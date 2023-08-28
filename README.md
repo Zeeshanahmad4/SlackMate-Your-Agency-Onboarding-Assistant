@@ -1,4 +1,4 @@
-🌟 SlackMate: Your Agency Onboarding Assistant 🌟
+#🌟 SlackMate: Your Agency Onboarding Assistant 🌟
 
 ## 📚 Project Overview
 
@@ -18,8 +18,6 @@ SlackMate is your go-to Slack bot designed to streamline the onboarding process 
 - **Checklist Tracking**: Track the completion of onboarding tasks.
 - **Role-based Customization**: Customize the onboarding process based on the department or role.
 
-
-`slack_bot_for_agency_onboarding/ |-- README.md |-- config/ | |-- settings.json |-- scripts/ | |-- create_folders_windows.bat |-- src/ | |-- main.py | |-- initial_greeting/ | | |-- greeting.py | |-- onboarding_guidance/ | | |-- guidance.py | |-- project_management_tools_access/ | | |-- pm_tools.py | |-- sharing_relevant_info/ | | |-- share_info.py | |-- channel_access/ | | |-- channel_access.py |-- requirements.txt |-- Dockerfile`
 
 🎯 Usage Examples
 Run the bot by executing the main.py script. It will listen for events and respond accordingly.
