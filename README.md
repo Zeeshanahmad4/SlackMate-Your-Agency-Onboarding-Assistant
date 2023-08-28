@@ -1,4 +1,5 @@
-#🌟 SlackMate: Your Agency Onboarding Assistant 🌟
+
+# SlackMate: Your Agency Onboarding Assistant 🌟
 
 ## 📚 Project Overview
 
