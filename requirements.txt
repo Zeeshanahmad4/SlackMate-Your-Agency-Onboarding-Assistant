@@ -1,0 +1,2 @@
+slack-sdk==3.11.2  # For interacting with the Slack API
+requests==2.26.0   # For making HTTP requests
