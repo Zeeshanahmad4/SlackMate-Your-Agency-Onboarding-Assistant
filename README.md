@@ -32,23 +32,11 @@
 
 1. [Project Overview](https://github.com/Zeeshanahmad4/SlackMate-Your-Agency-Onboarding-Assistant#-project-overview)
 2. [Features](https://github.com/Zeeshanahmad4/SlackMate-Your-Agency-Onboarding-Assistant#-features)
-3. [To-Do Features](https://github.com/Zeeshanahmad4/SlackMate-Your-Agency-Onboarding-Assistant#-to-do-features)
+   - [To-Do Features](https://github.com/Zeeshanahmad4/SlackMate-Your-Agency-Onboarding-Assistant#-to-do-features)
 4. [Usage Examples](https://github.com/Zeeshanahmad4/SlackMate-Your-Agency-Onboarding-Assistant#-usage-examples)
-5. [Setup and Installation](https://github.com/Zeeshanahmad4/SlackMate-Your-Agency-Onboarding-Assistant#-setup-and-installation)
-    - [Clone the Repository](https://github.com/Zeeshanahmad4/SlackMate-Your-Agency-Onboarding-Assistant#clone-the-repository)
-    - [Navigate to Project Directory](https://github.com/Zeeshanahmad4/SlackMate-Your-Agency-Onboarding-Assistant#navigate-to-project-directory)
-    - [Install Dependencies](https://github.com/Zeeshanahmad4/SlackMate-Your-Agency-Onboarding-Assistant#install-dependencies)
-    - [Set Environment Variables](https://github.com/Zeeshanahmad4/SlackMate-Your-Agency-Onboarding-Assistant#set-environment-variables)
-    - [Run the Bot](https://github.com/Zeeshanahmad4/SlackMate-Your-Agency-Onboarding-Assistant#run-the-bot)
+   - [Setup and Installation](https://github.com/Zeeshanahmad4/SlackMate-Your-Agency-Onboarding-Assistant#-setup-and-installation)
 6. [Troubleshooting Tips](https://github.com/Zeeshanahmad4/SlackMate-Your-Agency-Onboarding-Assistant#-troubleshooting-tips)
 7. [Contribution Guidelines](https://github.com/Zeeshanahmad4/SlackMate-Your-Agency-Onboarding-Assistant#-contribution-guidelines)
-    - [Fork the Repository](https://github.com/Zeeshanahmad4/SlackMate-Your-Agency-Onboarding-Assistant#fork-the-repository)
-    - [Clone to Local Machine](https://github.com/Zeeshanahmad4/SlackMate-Your-Agency-Onboarding-Assistant#clone-to-local-machine)
-    - [Create a New Branch](https://github.com/Zeeshanahmad4/SlackMate-Your-Agency-Onboarding-Assistant#create-a-new-branch)
-    - [Commit Changes](https://github.com/Zeeshanahmad4/SlackMate-Your-Agency-Onboarding-Assistant#commit-changes)
-    - [Push to GitHub](https://github.com/Zeeshanahmad4/SlackMate-Your-Agency-Onboarding-Assistant#push-to-github)
-    - [Create a Pull Request](https://github.com/Zeeshanahmad4/SlackMate-Your-Agency-Onboarding-Assistant#create-a-pull-request)
-
 
 ## 📚 Project Overview
 
